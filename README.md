@@ -63,9 +63,9 @@ The results demonstrate that larger and more robust Transformer architectures ca
 If you'd like to explore or build upon this work, feel free to fork the repository and run it locally.
 
 
-Fork the repository
-Create your feature branch
-Make your changes
-Submit a pull request
+Fork the repository <br>
+Create your feature branch <br>
+Make your changes <br>
+Submit a pull request <br>
 
 Contributions, suggestions, and improvements are welcome.
