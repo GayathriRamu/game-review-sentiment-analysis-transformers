@@ -49,12 +49,12 @@ The dataset consists of game reviews and their corresponding sentiment labels.
 
 | Model | Best Validation Accuracy |
 |---------|---------|
-| DistilBERT | 90.07% |
+| DistilBERT | 89.77% |
 | RoBERTa | 92.24% |
 
 #### Key Finding
 
-RoBERTa achieved the highest validation accuracy, outperforming DistilBERT by approximately 2.17%.
+RoBERTa achieved the highest validation accuracy, outperforming DistilBERT by approximately 2.47%.
 
 The results demonstrate that larger and more robust Transformer architectures can provide better contextual understanding for sentiment classification tasks.
 
